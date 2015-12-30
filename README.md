@@ -1,5 +1,23 @@
 reversi
 =======
 
-オセロの対戦プログラム　CPU側にはMIN-MAX法によるAI搭載
-makeして./a.out で実行
+Overview
+
+## Description
+
+cによるオセロの対戦プログラム
+
+CPU側にはMIN-MAX法によるAI搭載
+
+## Usage
+
+'''
+make
+./a.out
+'''
+
+## Install
+
+## Contribution
+
+## Licence
