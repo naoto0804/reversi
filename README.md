@@ -1,4 +1,4 @@
-reversi
+reversi-C
 =======
 
 Overview
@@ -11,13 +11,7 @@ CPU側にはMIN-MAX法によるAI搭載
 
 ## Usage
 
-'''
-make
-./a.out
-'''
+`make`
 
-## Install
+`./a.out`
 
-## Contribution
-
-## Licence
